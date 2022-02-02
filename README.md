@@ -1,3 +1,22 @@
+Projeto de Teste para criação de layout e consumo de APi usando React.
+Especificação: 
+          Crie uma aplicação web React.js
+          i) Refaça o front-end como demostrado no modelo disponibilizado em :
+          https://drive.google.com/drive/folders/1z0zXqju6K6Mv0OaAcCqGn1xq9XL-iuem
+          ii) Consuma a API encontrada no link:
+          https://fakerapi.it/en/?ref=devresourc.es
+          *Pode utilizar o recurso Users da API.
+          iii) Construa uma pagina com os dados. Para cada resultado construa um card com os
+          dados recuperados através da API
+          iv) Gere no mínimo 20 registros para ocupar a tela.
+          *Não é necessário criar outras paginas ou rotas.
+          *No Drive se encontra uma documentação com uma collection do Postman para teste
+          caso queira testar a api
+          Acessar Postman:
+          Pode fazer o download do client ou acesse pelo navegador:
+          https://www.postman.com/
+          Baixe, entre e faça o Import da collection para testar as rotas.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
