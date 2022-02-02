@@ -1,0 +1,11 @@
+.faixa ul {
+    display: flex;
+    justify-content: end;
+  }
+  
+.faixa ul li {
+    list-style-type: none;
+    padding-right: 14px;
+  }
+
+  
